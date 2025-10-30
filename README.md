@@ -1,26 +1,87 @@
-<h1 align="center">Hi 👋, I'm Shahmeer</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamirz123&label=Profile%20views&color=0e75b6&style=flat" alt="shamirz123" /> </p>
+<!-- Professional GitHub Profile README for Shahmeer Zubair -->
 
-- 🌱 I’m currently learning **React-JS , JAVASCRPIPT**
+<h1 align="center">👋 Hi, I'm Shahmeer Zubair</h1>
+<h3 align="center">Next.js | React.js | Node.js Developer</h3>
 
-- 💬 Ask me about **react, javascript ,php**
-
-- 📫 How to reach me **rajashamir383@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/shahmeer-zubair-3590a0273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shahmeer zubair" height="30" width="40" /></a>
-<a href="https://fb.com/shamir.zubair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="www.facebook.com/shamir.zubair" height="30" width="40" /></a>
-<a href="https://www.instagram.com/raja_shamir6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/raja_shamir6/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://shahmir.vercel.app" target="_blank">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/shahmeer-zubair-3590a0273/" target="_blank">💼 LinkedIn</a> •
+  <a href="https://github.com/shamirz123" target="_blank">👨‍💻 GitHub</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamirz123&show_icons=true&locale=en&layout=compact" alt="shamirz123" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamirz123&show_icons=true&locale=en" alt="shamirz123" /></p>
+I’m a **Full Stack JavaScript Developer** with 3+ years of experience building scalable, SEO-friendly, and high-performance web applications.  
+I specialize in **Next.js, React.js, Node.js, and TypeScript**, crafting seamless UI/UX experiences backed by robust backend architecture.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamirz123&" alt="shamirz123" /></p>
+- 💼 Currently working at **LALA Group of Companies** as a **Full Stack Developer**
+- 🧠 Learning advanced **TypeScript, PostgreSQL, and GraphQL**
+- ⚙️ Experienced with **Redux Toolkit, Zustand, REST APIs, Firebase, and MongoDB**
+- 🎨 Skilled in turning **Figma/Adobe XD** designs into pixel-perfect UIs
+- 📫 Reach me at **rajashamir383@gmail.com**
+
+---
+
+### 🧰 Tech Stack
+
+#### **Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,js,html,css,tailwind,bootstrap,mui,figma" />
+</p>
+
+#### **Backend & Database**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase" />
+</p>
+
+#### **Tools & Others**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,vercel,linux" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+#### 🕋 [HajjHaramain.com](http://hajjharamain.com)
+A **Next.js**-powered Hajj booking platform featuring file-based routing, API integration, and seamless state management for a smooth user experience.
+
+#### 🌍 [TripPlannerPK.com](https://tripplannerpk.com)
+A global **tour booking system** using React (frontend) and PHP (backend) for worldwide tours, visas, and transport bookings with clean UI and efficient API communication.
+
+#### 💰 [Expense Tracker App](https://expense-tracker-front-end-seven.vercel.app)
+A **MERN-based** expense tracker featuring authentication, category filters, and an interactive analytics dashboard deployed on **Vercel**.
+
+#### 💬 [Shahmir AI Chatbot](https://shahmir-bot.vercel.app)
+An intelligent **Next.js + Node.js** chatbot integrated with Google APIs for real-time conversations, responsive UI, and scalable backend integration.
+
+#### 🏝 [CapriEasy.com](http://caprieasy.com)
+Developed a travel booking platform offering tours, hotels, and boat rentals with optimized performance and intuitive design.
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shamirz123&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamirz123&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamirz123&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🧩 Fun Fact
+> “Clean code always looks like it was written by someone who cares.”  
+> — _Robert C. Martin_
+
+---
+
+<p align="center">
+  <b>Let’s build something amazing together 🚀</b><br/>
+  <a href="mailto:rajashamir383@gmail.com">rajashamir383@gmail.com</a>
+</p>
