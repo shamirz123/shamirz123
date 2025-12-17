@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://shahmir.vercel.app" target="_blank">🌐 Portfolio</a> •
-  <a href="linkedin.com/in/shameer-zubair/" target="_blank">💼 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/shameer-zubair" target="_blank">💼 LinkedIn</a> •
   <a href="https://github.com/shamirz123" target="_blank">👨‍💻 GitHub</a>
 </p>
 
