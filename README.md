@@ -16,7 +16,7 @@
 I’m a **Full Stack JavaScript Developer** with 3+ years of experience building scalable, SEO-friendly, and high-performance web applications.  
 I specialize in **Next.js, React.js, Node.js, and TypeScript**, crafting seamless UI/UX experiences backed by robust backend architecture.
 
-- 💼 Currently working at **LALA Group of Companies** as a **Full Stack Developer**
+- 💼 Currently working at **Immentia SMC Private Ltd** as a **Full Stack Developer**
 - 🧠 Learning advanced **TypeScript, PostgreSQL, and GraphQL**
 - ⚙️ Experienced with **Redux Toolkit, Zustand, REST APIs, Firebase, and MongoDB**
 - 🎨 Skilled in turning **Figma/Adobe XD** designs into pixel-perfect UIs
