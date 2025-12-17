@@ -1,11 +1,11 @@
 <!-- Professional GitHub Profile README for Shahmeer Zubair -->
 
 <h1 align="center">👋 Hi, I'm Shahmeer Zubair</h1>
-<h3 align="center">Next.js | React.js | Node.js Developer</h3>
+<h3 align="center">React.js | Next.js | MERN Stack Developer</h3>
 
 <p align="center">
   <a href="https://shahmir.vercel.app" target="_blank">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/shahmeer-zubair-3590a0273/" target="_blank">💼 LinkedIn</a> •
+  <a href="linkedin.com/in/shameer-zubair/" target="_blank">💼 LinkedIn</a> •
   <a href="https://github.com/shamirz123" target="_blank">👨‍💻 GitHub</a>
 </p>
 
