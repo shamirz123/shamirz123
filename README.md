@@ -45,6 +45,9 @@ I specialize in **Next.js, React.js, Node.js, and TypeScript**, crafting seamles
 
 ### 🌟 Featured Projects
 
+🌐 Immentia.com
+A modern corporate website built with a performance-focused frontend, responsive UI, and clean component architecture, showcasing services, portfolio, and brand identity with a professional user experience.
+
 #### 🕋 [HajjHaramain.com](http://hajjharamain.com)
 A **Next.js**-powered Hajj booking platform featuring file-based routing, API integration, and seamless state management for a smooth user experience.
 
