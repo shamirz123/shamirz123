@@ -78,7 +78,7 @@ Developed a travel booking platform offering tours, hotels, and boat rentals wit
 
 ---
 
-### 🧩 Fun Fact
+###
 > “Clean code always looks like it was written by someone who cares.”  
 > — _Robert C. Martin_
 
